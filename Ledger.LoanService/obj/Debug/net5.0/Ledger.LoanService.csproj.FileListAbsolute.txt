@@ -1,0 +1,15 @@
+/Users/in-ankush.khandare/Study/DotNet/Ledger.LoanService/Ledger.LoanService/bin/Debug/net5.0/Ledger.LoanService.deps.json
+/Users/in-ankush.khandare/Study/DotNet/Ledger.LoanService/Ledger.LoanService/bin/Debug/net5.0/Ledger.LoanService.runtimeconfig.json
+/Users/in-ankush.khandare/Study/DotNet/Ledger.LoanService/Ledger.LoanService/bin/Debug/net5.0/Ledger.LoanService.runtimeconfig.dev.json
+/Users/in-ankush.khandare/Study/DotNet/Ledger.LoanService/Ledger.LoanService/bin/Debug/net5.0/Ledger.LoanService.dll
+/Users/in-ankush.khandare/Study/DotNet/Ledger.LoanService/Ledger.LoanService/bin/Debug/net5.0/ref/Ledger.LoanService.dll
+/Users/in-ankush.khandare/Study/DotNet/Ledger.LoanService/Ledger.LoanService/bin/Debug/net5.0/Ledger.LoanService.pdb
+/Users/in-ankush.khandare/Study/DotNet/Ledger.LoanService/Ledger.LoanService/obj/Debug/net5.0/Ledger.LoanService.csprojAssemblyReference.cache
+/Users/in-ankush.khandare/Study/DotNet/Ledger.LoanService/Ledger.LoanService/obj/Debug/net5.0/Ledger.LoanService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/in-ankush.khandare/Study/DotNet/Ledger.LoanService/Ledger.LoanService/obj/Debug/net5.0/Ledger.LoanService.AssemblyInfoInputs.cache
+/Users/in-ankush.khandare/Study/DotNet/Ledger.LoanService/Ledger.LoanService/obj/Debug/net5.0/Ledger.LoanService.AssemblyInfo.cs
+/Users/in-ankush.khandare/Study/DotNet/Ledger.LoanService/Ledger.LoanService/obj/Debug/net5.0/Ledger.LoanService.csproj.CoreCompileInputs.cache
+/Users/in-ankush.khandare/Study/DotNet/Ledger.LoanService/Ledger.LoanService/obj/Debug/net5.0/Ledger.LoanService.dll
+/Users/in-ankush.khandare/Study/DotNet/Ledger.LoanService/Ledger.LoanService/obj/Debug/net5.0/ref/Ledger.LoanService.dll
+/Users/in-ankush.khandare/Study/DotNet/Ledger.LoanService/Ledger.LoanService/obj/Debug/net5.0/Ledger.LoanService.pdb
+/Users/in-ankush.khandare/Study/DotNet/Ledger.LoanService/Ledger.LoanService/obj/Debug/net5.0/Ledger.LoanService.genruntimeconfig.cache
